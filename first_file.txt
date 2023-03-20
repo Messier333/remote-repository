@@ -1,3 +1,4 @@
 file edited
 second
 git fetch
+git pull
